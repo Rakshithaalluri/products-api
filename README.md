@@ -60,7 +60,7 @@ Success:
 }
 
 ## GET /api/history
-## Description: Retrieves the last 100 product entries with details.
+### Description: Retrieves the last 100 product entries with details.
 Response:
 {
     "status": "success",
